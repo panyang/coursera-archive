@@ -1,2 +1,3 @@
-# coursera-archive
+# Coursera Archive
+
 Coursera Archive
