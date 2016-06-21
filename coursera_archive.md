@@ -13,5 +13,4 @@ Coursera archive for old coursera platform courses
 * [Machine Learning Foundations by Hsuan-Tien Lin](https://www.coursera.org/course/ntumlone) URL: http://pan.baidu.com/s/1hsmAsNq PASS: kxfj
 * [Machine Learning Techniques by Hsuan-Tien Lin](https://www.coursera.org/course/ntumltwo) URL: http://pan.baidu.com/s/1bpHSAPD PASS: abye
 * [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) URL: http://pan.baidu.com/s/1dFHO7mh PASS: a427
-* [Probabilistic Graphical Models](https://www.coursera.org/course/pgm) URL:
-* http://pan.baidu.com/s/1sl7qGUh PASS: 88tj
+* [Probabilistic Graphical Models](https://www.coursera.org/course/pgm) URL: http://pan.baidu.com/s/1sl7qGUh PASS: 88tj
