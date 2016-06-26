@@ -7,7 +7,7 @@ Coursera archive for old coursera platform courses
 * [Machine Learning](#machine-learning)
 * [Natural Language Processing](#natural-language-processing)
 * [Recommender Systems](#recommender-systems)
-* [Data Mining](#recommender-systems)
+* [Data Mining](#data-mining)
 
 ## Machine Learning
 * [Machine learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) URL: http://pan.baidu.com/s/1kUIHUGf PASS: rthm
