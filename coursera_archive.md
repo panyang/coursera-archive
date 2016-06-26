@@ -4,10 +4,10 @@ Coursera Archive
 Coursera archive for old coursera platform courses
 ### Categories
 
-* [Machine Learning](#ml)
-* [Natural Language Processing](#nlp)
-* [Recommender Systems](#recsys)
-* [Data Mining](#dm)
+* [Machine Learning](#machine-learning)
+* [Natural Language Processing](#natural-language-processing)
+* [Recommender Systems](#recommender-systems)
+* [Data Mining](#recommender-systems)
 
 ## Machine Learning
 * [Machine learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) URL: http://pan.baidu.com/s/1kUIHUGf PASS: rthm
