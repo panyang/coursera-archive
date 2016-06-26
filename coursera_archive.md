@@ -6,6 +6,8 @@ Coursera archive for old coursera platform courses
 
 * [Machine Learning](#ml)
 * [Natural Language Processing](#nlp)
+* [Recommender Systems](#recsys)
+* [Data Mining](#dm)
 
 ## Machine Learning
 * [Machine learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) URL: http://pan.baidu.com/s/1kUIHUGf PASS: rthm
@@ -20,3 +22,12 @@ Coursera archive for old coursera platform courses
 * [Natural Language Processing by Jurafsky and Manning](https://www.coursera.org/course/nlp) URL: http://pan.baidu.com/s/1jHKfXQm PASS: s6hx
 * [Introduction to Natural Language Processing](https://www.coursera.org/course/nlpintro) URL: http://pan.baidu.com/s/1nu5MFVj PASS: 3t3h
 * [Text Mining and Analytics](https://www.coursera.org/learn/text-mining)
+
+## Recommender Systems
+* [Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) URL: http://pan.baidu.com/s/1pLy7uvL PASS: ui1u
+
+## Data Mining
+* [Mining Massive Datasets](https://www.coursera.org/course/mmds) URL: http://pan.baidu.com/s/1c81pRC PASS: e25n
+* [Pattern Discovery in Data Mining](https://www.coursera.org/learn/data-patterns)
+* [Cluster Analysis in Data Mining](https://www.coursera.org/learn/cluster-analysis)
+
