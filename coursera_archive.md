@@ -27,7 +27,7 @@ Coursera archive for old coursera platform courses
 * [Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) URL: http://pan.baidu.com/s/1pLy7uvL PASS: ui1u
 
 ## Data Mining
-* [Mining Massive Datasets](https://www.coursera.org/course/mmds) URL: http://pan.baidu.com/s/1c81pRC PASS: e25n
+* [Mining Massive Datasets](http://coursegraph.com/coursera_mmds) URL: http://pan.baidu.com/s/1c81pRC PASS: e25n
 * [Pattern Discovery in Data Mining](https://www.coursera.org/learn/data-patterns)
 * [Cluster Analysis in Data Mining](https://www.coursera.org/learn/cluster-analysis)
 
