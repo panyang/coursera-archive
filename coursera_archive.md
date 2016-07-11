@@ -18,9 +18,9 @@ Coursera archive for old coursera platform courses
 * [Probabilistic Graphical Models](https://www.coursera.org/learn/probabilistic-graphical-models) URL: http://pan.baidu.com/s/1sl7qGUh PASS: 88tj
 
 ## Natural Language Processing
-* [Natural Language Processing by Michael Collins](https://www.coursera.org/course/nlangp) URL: http://pan.baidu.com/s/1hsbKYK8 PASS: ines
-* [Natural Language Processing by Jurafsky and Manning](https://www.coursera.org/course/nlp) URL: http://pan.baidu.com/s/1jHKfXQm PASS: s6hx
-* [Introduction to Natural Language Processing](https://www.coursera.org/course/nlpintro) URL: http://pan.baidu.com/s/1nu5MFVj PASS: 3t3h
+* [Natural Language Processing by Michael Collins](http://coursegraph.com/coursera_nlangp) URL: http://pan.baidu.com/s/1hsbKYK8 PASS: ines
+* [Natural Language Processing by Jurafsky and Manning](https://www.coursera.org/learn/nlp) URL: http://pan.baidu.com/s/1jHKfXQm PASS: s6hx
+* [Introduction to Natural Language Processing](https://www.coursera.org/learn/nlpintro) URL: http://pan.baidu.com/s/1nu5MFVj PASS: 3t3h
 * [Text Mining and Analytics](https://www.coursera.org/learn/text-mining)
 
 ## Recommender Systems
