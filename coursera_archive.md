@@ -8,6 +8,7 @@ Coursera archive for old coursera platform courses
 * [Natural Language Processing](#natural-language-processing)
 * [Recommender Systems](#recommender-systems)
 * [Data Mining](#data-mining)
+* [Algorithm](#algorithm)
 
 ## Machine Learning
 * [Machine learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) URL: http://pan.baidu.com/s/1kUIHUGf PASS: rthm
@@ -31,3 +32,6 @@ Coursera archive for old coursera platform courses
 * [Pattern Discovery in Data Mining](https://www.coursera.org/learn/data-patterns)
 * [Cluster Analysis in Data Mining](https://www.coursera.org/learn/cluster-analysis)
 
+## Algorithm
+* [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/learn/algorithm-design-analysis) URL: http://pan.baidu.com/s/1qY8ELmG PASS: ntyb
+* [Algorithms: Design and Analysis, Part 2](https://www.coursera.org/learn/algorithm-design-analysis-2) URL: http://pan.baidu.com/s/1nvtlPk1 PASS: 5m4a
