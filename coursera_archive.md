@@ -35,3 +35,8 @@ Coursera archive for old coursera platform courses
 ## Algorithm
 * [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/learn/algorithm-design-analysis) URL: http://pan.baidu.com/s/1qY8ELmG PASS: ntyb
 * [Algorithms: Design and Analysis, Part 2](https://www.coursera.org/learn/algorithm-design-analysis-2) URL: http://pan.baidu.com/s/1nvtlPk1 PASS: 5m4a
+* [Algorithms, Part I](https://www.coursera.org/learn/introduction-to-algorithms) URL: http://pan.baidu.com/s/1gfHeDoB PASS: tvwj
+* [Algorithms, Part II](https://www.coursera.org/learn/java-data-structures-algorithms-2) URL: http://pan.baidu.com/s/1nuV5qMt PASS: b73q
+* [Analysis of Algorithms](http://coursegraph.com/coursera_aofa) URL: http://pan.baidu.com/s/1slKieDJ PASS: 2pg4
+* [Analytic Combinatorics](https://www.coursera.org/learn/analytic-combinatorics) URL: http://pan.baidu.com/s/1ge4Dj8J PASS: qnw5
+* [Design and Analysis of Algorithms](http://coursegraph.com/coursera_algorithms) URL: http://pan.baidu.com/s/1qXRv16G PASS: bvcn
